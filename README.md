@@ -1,5 +1,7 @@
 # charmingSwift
-Swift를 Swift 답게! 매력적인 Swift 코드를 작성하기 위해 공부합니다 ✏️
+Swift를 Swift 답게! 매력적인 Swift 코드를 작성하기 위해 공부합니다.<br>
+코드는 깃허브로 관리하고, 관련 내용의 자세한 부분을 블로그로 정리합니다. <br>
+블로그 링크는 [여기](https://velog.io/@iammiori/CharmingSwift-0.-Swift를-Swift-답게-코드를-작성하자)입니다.
 
 ## ✏️ 함수형 프로그래밍
 ```
