@@ -20,7 +20,7 @@ Swift 에서 함수는 일급객체로 취급당한다.
 ## 🗂 목록
 |문제|코드|설명(블로그)|구분|
 |------|---|---|---|
-|프로그래머스 최빈값구하기|||`if` vs `filter` + `forEach`|
+|프로그래머스 최빈값구하기|[code](higherOrderFunction/findMode.swift)||`if` vs `filter` + `forEach`|
 |프로그래머스 피자2|||`if` vs `guard`|
 |프로그래머스 배열의평균값|||`reduce`|
 |프로그래머스 배열뒤집기|||`map`|
