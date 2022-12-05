@@ -32,6 +32,7 @@ if와 달리 특정 조건에 부합하지 않다면 빠르게 코드 블록 실
 |프로그래머스 최빈값구하기|[code](higherOrderFunction/findMode.swift)||`if` vs `filter` + `forEach`|
 |프로그래머스 피자2|[code](guard/pizza2.swift)||`if` vs `guard`|
 |프로그래머스 배열의평균값|[code](higherOrderFunction/arrayAvg.swift)||`reduce`|
+|프로그래머스 가위바위보|||`forEach` vs `map`|
 |프로그래머스 배열뒤집기|||`map`|
 |프로그래머스 짝수의합|||`filter`,`reduce`|
 |프로그래머스 각도기|||`enum`|
