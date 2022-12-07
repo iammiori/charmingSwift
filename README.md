@@ -34,6 +34,7 @@ if와 달리 특정 조건에 부합하지 않다면 빠르게 코드 블록 실
 |프로그래머스 배열의평균값|[code](higherOrderFunction/arrayAvg.swift)||`reduce`|
 |프로그래머스 가위바위보|[code](higherOrderFunction/gawibawibo.swift)||`forEach` vs `map`|
 |프로그래머스 배열뒤집기|[code](higherOrderFunction/reverseArray.swift)||`map`, `다운캐스팅`|
+|프로그래머스 소인수분해|[code](higherOrderFunction/primeFactorization.swift)||`filter, for-in + if 성능 비교`|
 |프로그래머스 짝수의합|||`filter`,`reduce`|
 |프로그래머스 각도기|||`enum`|
 |프로그래머스 외계행성의나이|||`wholeNumberValue`|
