@@ -37,5 +37,5 @@ if와 달리 특정 조건에 부합하지 않다면 빠르게 코드 블록 실
 |프로그래머스 소인수분해|[code](higherOrderFunction/primeFactorization.swift)||`filter, for-in + if 성능 비교`|
 |프로그래머스 짝수의합|||`filter`,`reduce`|
 |프로그래머스 각도기|[code](enum/angle.swift)||`enum`|
-|프로그래머스 외계행성의나이|||`wholeNumberValue`|
+|프로그래머스 외계행성의나이|[code](Strings_Text/Character/wholeNumberValue.swift)||`wholeNumberValue`|
 |프로그래머스 진료순서정하기|||`map`,`filter`|
